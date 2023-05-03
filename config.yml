@@ -1,0 +1,17 @@
+title: <p align="center"> Kriti Pawar </p>
+logo: /assets/img/logo.png
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/sajan-kedia-b06a6821/">LinkedIn</a> |
+  <a href="https://github.com/kritipawar">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Machine learning & NLP related problems.I have 3 years f experience in developing end to end Data Science systems.
+  <br>
+  </p>
+
+
+
+theme: jekyll-theme-minimal
